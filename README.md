@@ -1,6 +1,6 @@
 # ETL-Project-Pandas-MySQL-
 
-🏏 IPL Performance Analytics
+🏏 IPL Analysis
 📖 About The Project
 
 This project performs detailed analysis on Indian Premier League (IPL) match and ball-by-ball data.
@@ -32,6 +32,8 @@ NumPy
 
 Matplotlib
 
+Seaborn
+
 Jupyter Notebook
 
 MySQL (for structured data handling)
@@ -54,8 +56,6 @@ GroupBy & Aggregations
 Filtering & Conditional Analysis
 
 Feature Understanding
-
-Statistical Calculations
 
 Data Visualization
 
@@ -82,6 +82,7 @@ Install required libraries
 Open the Jupyter notebook
 
 Run all cells to reproduce the analysis
+
 
 📌 Project Purpose
 
