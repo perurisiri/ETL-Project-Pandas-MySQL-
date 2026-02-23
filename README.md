@@ -1,7 +1,7 @@
 # ETL-Project-Pandas-MySQL
 
 🏏 IPL Analysis
-📖 About The Project
+
 
 This project performs detailed analysis on Indian Premier League (IPL) match and ball-by-ball data.
 The notebook focuses on extracting meaningful insights using data transformation, aggregation, and visualization techniques.
