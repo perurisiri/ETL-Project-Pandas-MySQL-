@@ -40,6 +40,8 @@ Jupyter Notebook
 
 MySQL (for structured data handling)
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 📂 Dataset Information
 
@@ -50,6 +52,8 @@ matches.csv
 deliveries.csv
 
 players.csv
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 📊 Analytical Techniques Used
@@ -62,6 +66,8 @@ Feature Understanding
 
 Data Visualization
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 🎯 Learning Outcomes
 
@@ -69,7 +75,7 @@ Through this project, I gained practical experience in:
 
 Exploratory Data Analysis (EDA)
 
-Data modeling basics
+Visulizations
 
 Handling large datasets
 
@@ -77,21 +83,20 @@ Writing optimized analytical queries
 
 Converting raw data into insights
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🚀 How to Execute
 
-Install required libraries
+Install required libraries for cleaning and visualizing and connecting
 
-Open the Jupyter notebook
+Open the Jupyter notebook clean the data then connect to mysql then
 
-Run all cells to reproduce the analysis
+Make visualizations to draw insights from the data.
 
 
 📌 Project Purpose
 
-This project demonstrates real-world data analysis skills useful for:
-
-Data Analyst roles
+This project demonstrates real-world data analysis skills useful for Data Analyst roles
 
 Business Intelligence
 
