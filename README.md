@@ -1,4 +1,4 @@
-# ETL-Project-Pandas-MySQL-
+# ETL-Project-Pandas-MySQL
 
 🏏 IPL Analysis
 📖 About The Project
@@ -22,6 +22,7 @@ The objective is to understand scoring patterns, team performance, and match-lev
 
 📌 Data cleaning and preprocessing
 
+
 🛠️ Tech Stack
 
 Python
@@ -37,6 +38,7 @@ Seaborn
 Jupyter Notebook
 
 MySQL (for structured data handling)
+
 
 📂 Dataset Information
 
